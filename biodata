@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+printf("Biodata");
+printf(" \n name::charan");
+printf("\n year::2007");
+printf("\n college:: aditya university"):
+return 0;
+}
